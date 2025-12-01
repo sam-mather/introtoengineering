@@ -1,0 +1,18 @@
+//Setup
+//  Key tasks:
+//    Connect motors to Arduino
+//    Connect photodiode, infrared, and sonic sensors to Arduino
+//    Connect pump to Arduino
+//    Define thresholds for
+//      Photodiode recognizing fire/not fire
+//      Infrared sensors recognizing white floor/black line
+//      Sonic sensor recognizing wall or obstacle/clear path
+//Start up
+//  Drive straight until sonic sensor detects a wall in front
+//  Turn right until path is clear 
+//  Go straight slowly, sonic sensor scanning to the right
+//  When sonic sensor detects no obstacle, 
+//Navigate
+//Room procedure
+//Prepare to extinguish candle
+//Extinguish candle
